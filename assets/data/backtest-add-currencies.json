@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Bytecoin",
+    "short": "(BTC)",
+    "date": "2013-04-28",
+    "price": "$530.893009331",
+    "hour24": "19.89%",
+    "remove": null
+  },
+  {
+    "title": "Bitcryctall",
+    "short": "(BCL)",
+    "date": "2013-04-28",
+    "price": "$290.625245",
+    "hour24": "15.01%",
+    "remove": null
+  },
+  {
+    "title": "Bela",
+    "short": "(Bela)",
+    "date": "2013-04-28",
+    "price": "$120.986670",
+    "hour24": "18.89%",
+    "remove": null
+  },
+  {
+    "title": "BlackCoin",
+    "short": "(Black)",
+    "date": "2013-04-28",
+    "price": "$119.001",
+    "hour24": "9.90092%",
+    "remove": null
+  },
+  {
+    "title": "BitShares",
+    "short": "(BShares)",
+    "date": "2013-04-28",
+    "price": "$110.81009",
+    "hour24": "8.1101%",
+    "remove": null
+  },
+  {
+    "title": "Bytecoin",
+    "short": "(BCN)",
+    "date": "2013-04-28",
+    "price": "$530.893009331",
+    "hour24": "19.89%",
+    "remove": null
+  },
+  {
+    "title": "Bitcryctall",
+    "short": "(BCN)",
+    "date": "2013-04-28",
+    "price": "$290.625245",
+    "hour24": "15.01%",
+    "remove": null
+  },
+  {
+    "title": "Bela",
+    "short": "(BCN)",
+    "date": "2013-04-28",
+    "price": "$120.986670",
+    "hour24": "18.89%",
+    "remove": null
+  },
+  {
+    "title": "BlackCoin",
+    "short": "(BCN)",
+    "date": "2013-04-28",
+    "price": "$119.001",
+    "hour24": "9.90092%",
+    "remove": null
+  },
+  {
+    "title": "BitShares",
+    "short": "(BCN)",
+    "date": "2013-04-28",
+    "price": "$110.81009",
+    "hour24": "8.1101%",
+    "remove": null
+  }
+]

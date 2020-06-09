@@ -1,0 +1,52 @@
+[
+  {
+    "subscribers": "3K",
+    "title": "Bestbruho",
+    "star": true,
+    "text": "Invited in Crypto with real use cases. Trading and rebalancing only when gains >20%. Invited in Crypto...",
+    "day": "15.89%",
+    "mon": "19.811%",
+    "year": "30.78%",
+    "link": "#",
+    "currency": "Binance",
+    "coins": [
+      "Bela",
+      "Binance",
+      "Bitcryctall",
+      "BitShares",
+      "Bittrex",
+      "BlackCoin",
+      "Bytecoin Cash",
+      "Bytecoin+",
+      "Bytecom",
+      "BitShares",
+      "Kucoin"
+    ]
+  },
+
+  {
+    "subscribers": "1K",
+    "title": "Gordeeva",
+    "star": true,
+    "text": "Invited in Crypto with real use cases. Trading and rebalancing only when gains >20%. Invited in Crypto...",
+    "day": "15.89%",
+    "mon": "19.811%",
+    "year": "30.78%",
+    "link": "#",
+    "currency": "Binance",
+    "coins": ["Bela", "Binance", "Bitcryctall", "BitShares", "Bittrex"]
+  },
+
+  {
+    "subscribers": "899",
+    "title": "Tyu-gide",
+    "star": true,
+    "text": "Invited in Crypto with real use cases. Trading and rebalancing only when gains >20%. Invited in Crypto...",
+    "day": "15.89%",
+    "mon": "19.811%",
+    "year": "30.78%",
+    "link": "#",
+    "currency": "Bittrex",
+    "coins": ["Bela", "Binance", "BitShares", "Bittrex"]
+  }
+]

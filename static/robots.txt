@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: *utm=
+
+User-agent: Googlebot
+Allow: /img/coins/*.png
+Allow: /img/*.png
+Allow: /img/*.svg
+Disallow: *utm=
+
+
+User-agent: Yandex
+Allow: /img/coins/*.png
+Allow: /img/*.png
+Allow: /img/*.svg
+
+
+Sitemap: https://holderlab.io/sitemap.xml
+Host: https://holderlab.io

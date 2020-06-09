@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Bytecoin Cash",
+    "short": "(BCN)",
+    "price": "$12.984533",
+    "amount": "$64",
+    "inpercent": "9%",
+    "coin": "0.09283373 BTC",
+    "change": "8.22%",
+    "remove": null
+  },
+  {
+    "title": "Bitcryctall",
+    "short": "(BCALL)",
+    "price": "$12.984533",
+    "amount": "$64",
+    "inpercent": "9%",
+    "coin": "0.09283373 BTC",
+    "change": "8.22%",
+    "remove": null
+  },
+  {
+    "title": "Bela",
+    "short": "(Bela)",
+    "price": "$12.984533",
+    "amount": "$64",
+    "inpercent": "9%",
+    "coin": "0.09283373 BTC",
+    "change": "-8.22%",
+    "remove": null
+  },
+  {
+    "title": "BlackCoin",
+    "short": "(BlackC)",
+    "price": "$12.984533",
+    "amount": "$64",
+    "inpercent": "9%",
+    "coin": "0.09283373 BTC",
+    "change": "8.22%",
+    "remove": null
+  },
+  {
+    "title": "BitShares",
+    "short": "(BShares)",
+    "price": "$12.984533",
+    "amount": "$64",
+    "inpercent": "9%",
+    "coin": "0.09283373 BTC",
+    "change": "-8.22%",
+    "remove": null
+  },
+  {
+    "title": "BitShares",
+    "short": "(BShares)",
+    "price": "$12.984533",
+    "amount": "$64",
+    "inpercent": "9%",
+    "coin": "0.09283373 BTC",
+    "change": "-8.22%",
+    "remove": null
+  },
+  {
+    "title": "BitShares",
+    "short": "(BShares)",
+    "price": "$12.984533",
+    "amount": "$64",
+    "inpercent": "9%",
+    "coin": "0.09283373 BTC",
+    "change": "-8.22%",
+    "remove": null
+  }
+]

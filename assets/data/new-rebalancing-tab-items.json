@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Bitcoin",
+    "reduction_name": "(BCH)",
+    "change": "0",
+    "id_coin": "1",
+    "asset_price": "530.89",
+    "fund": "64.8",
+    "fund_percent": "9.8",
+    "index_fund": "0.09283373 BTC",
+    "index_fund_name": "BTC",
+    "value": "70"
+  },
+  {
+    "title": "Bytecoin Cash",
+    "reduction_name": "(BCH)",
+    "change": "0.21",
+    "id_coin": "2",
+    "asset_price": "530.89",
+    "fund": "64.8",
+    "fund_percent": "9.8",
+    "index_fund": "0.09283373",
+    "index_fund_name": "BTC",
+    "value": "70"
+  }
+]

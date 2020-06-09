@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://holderlab.io/landing</loc>
+  <lastmod>2020-01-10T09:26:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://holderlab.io/landing#crypto-portfolio-optimization</loc>
+  <lastmod>2020-01-10T09:26:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://holderlab.io/landing#crypto-rebalancing-bot</loc>
+  <lastmod>2020-01-10T09:26:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://holderlab.io/landing#cryptocurrency-exchanges</loc>
+  <lastmod>2020-01-10T09:26:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://holderlab.io/landing#crypto-community</loc>
+  <lastmod>2020-01-10T09:26:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://holderlab.io/landing#backtest-crypto</loc>
+  <lastmod>2020-01-10T09:26:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://holderlab.io/landing-modal/hello</loc>
+  <lastmod>2020-01-10T09:26:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://holderlab.io/landing-modal/welcome</loc>
+  <lastmod>2020-01-10T09:26:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://holderlab.io/landing-plans/</loc>
+  <lastmod>2020-01-10T09:26:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://holderlab.io/landing-privacy-policy/</loc>
+  <lastmod>2020-01-10T09:26:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://holderlab.io/landing-terms-of-service/</loc>
+  <lastmod>2020-01-10T09:26:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://holderlab.io/landing/</loc>
+  <lastmod>2020-01-10T09:26:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://holderlab.io/landing-modal/reset-password</loc>
+  <lastmod>2020-01-10T09:26:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+
+</urlset>

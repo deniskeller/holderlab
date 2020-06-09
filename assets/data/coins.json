@@ -1,0 +1,50 @@
+[
+  {
+    "asset_price": 10597.33,
+    "balance": 0.0001,
+    "change": "0%",
+    "full_name": "1Bitcoin",
+    "fund": "$64.8",
+    "fund_percent": "%9.8",
+    "id_coin": "1",
+    "in_btc": 0.0001,
+    "in_usd": "1.06",
+    "index_fund": "0.09283373 BTC",
+    "last_price": 10597.32863,
+    "name": "BTC",
+    "percent": 98.47,
+    "price_changes": 2.16,
+    "rank": "1",
+    "statistics": 
+    {
+      "day": "2.14",
+      "month": "-9.41",
+      "now": 10595.2688906271,
+      "year": "45.96"
+    }
+  },
+  {
+    "asset_price": 10597.33,
+    "balance": 0.0001,
+    "change": "0%",
+    "full_name": "2Bitcoin",
+    "fund": "$64.8",
+    "fund_percent": "%9.8",
+    "id_coin": "1",
+    "in_btc": 0.0001,
+    "in_usd": "1.06",
+    "index_fund": "0.09283373 BTC",
+    "last_price": 10597.32863,
+    "name": "BTC",
+    "percent": 98.47,
+    "price_changes": 2.16,
+    "rank": "1",
+    "statistics": 
+    {
+      "day": "2.14",
+      "month": "-9.41",
+      "now": 10595.2688906271,
+      "year": "45.96"
+    }
+  }
+]

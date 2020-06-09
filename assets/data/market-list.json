@@ -1,0 +1,42 @@
+[
+  {
+    "market_title": "Binance",
+    "market_id": "270"
+  },
+  {
+    "market_title": "Bittrex",
+    "market_id": "22"
+  },
+  {
+    "market_title": "Kucoin",
+    "market_id": "311"
+  },
+  {
+    "market_title": "Poloniex",
+    "market_id": "16"
+  },
+  {
+    "market_title": "Okex",
+    "market_id": "294"
+  },
+  {
+    "market_title": "Kraken",
+    "market_id": "24"
+  },
+  {
+    "market_title": "HuobiGlobal",
+    "market_id": "102"
+  },
+  {
+    "market_title": "Bibox",
+    "market_id": "339"
+  },
+  {
+    "market_title": "Bitfinex",
+    "market_id": "37"
+  },
+  {
+    "market_title": "HitBTC",
+    "market_id": "42"
+  }
+]
